@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<resultsXml>
+    <configurations>
+        <configuration size="1000" omega="1.0" rank="100" diagonal="1.0" density="0.1" positive="false" instanceClass="UNIFORM_MATROID" tightness="0.0" tolerance="0.0">
+            <algorithms>
+                <algorithm algorithm="QUADRATIC_CONTINUOUS_BISECTION">
+                    <results>
+                        <result seed="12345">
+                            <time>1203</time>
+                            <iterations>34</iterations>
+                            <QPs>14</QPs>
+                            <upperBound>-4738.704498831163</upperBound>
+                            <lowerBound>-4738.704498831163</lowerBound>
+                            <rootRelaxation>-4738.704498831163</rootRelaxation>
+                        </result>
+                    </results>
+                </algorithm>
+            </algorithms>
+        </configuration>
+    </configurations>
+</resultsXml>
